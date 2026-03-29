@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/microservices" />
             <option value="$PROJECT_DIR$/microservices/product-service" />
             <option value="$PROJECT_DIR$/spring-cloud" />
+            <option value="$PROJECT_DIR$/spring-cloud/edge-server" />
             <option value="$PROJECT_DIR$/spring-cloud/eureka-server" />
             <option value="$PROJECT_DIR$/utils" />
           </set>
