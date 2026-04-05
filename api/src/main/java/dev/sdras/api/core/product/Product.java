@@ -1,10 +1,10 @@
 package dev.sdras.api.core.product;
 
 public class Product {
-    public final int productId;
-    public final String name;
-    public final int weight;
-    public final String serviceAddress;
+    public int productId;
+    public String name;
+    public int weight;
+    public String serviceAddress;
 
     public Product() {
         this.serviceAddress = "";
