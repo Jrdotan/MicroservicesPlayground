@@ -30,7 +30,7 @@ Cada equipe deverá criar um microserviço a partir da branch principal do proje
 - **Gabriel Oliveira**
 - **Marcelo**
 
-## 3. Product Composite Service
+## 3. Product Recommendation Service
 
 ### Integrantes
 - **Luiz**
