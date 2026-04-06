@@ -1,0 +1,6 @@
+include 'microservices:product-service'
+include 'microservices:recommendation-service'
+include 'spring-cloud:eureka-server'
+include 'spring-cloud:edge-server'
+include ':api'
+include ':utils'
